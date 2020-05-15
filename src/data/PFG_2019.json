@@ -1,0 +1,1402 @@
+[
+ {
+  "ItemName": "YOGURT STRWBRY BLND ORGANIC WM",
+  "Dist.SKU": 861440,
+  "Brand": "STONYFIELD FARMS",
+  "Pack": 12,
+  "Size": "5.3 OZ",
+  "UnitType": "CS",
+  "Cases": 485,
+  "CostperCase": "$11.08"
+ },
+ {
+  "ItemName": "YOGURT PLN ORGANIC FF",
+  "Dist.SKU": 585872,
+  "Brand": "STONYFIELD FARMS",
+  "Pack": 12,
+  "Size": "5.3 OZ",
+  "UnitType": "CS",
+  "Cases": 418,
+  "CostperCase": "$10.64"
+ },
+ {
+  "ItemName": "HUMMUS ORGNL NAT TFF",
+  "Dist.SKU": 473738,
+  "Brand": "CEDARS",
+  "Pack": 48,
+  "Size": "2 OZ",
+  "UnitType": "CS",
+  "Cases": 384,
+  "CostperCase": "$20.41"
+ },
+ {
+  "ItemName": "CHEESE STRING MOZZ LMPS IW",
+  "Dist.SKU": 282017,
+  "Brand": "FRIGO",
+  "Pack": 96,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 377,
+  "CostperCase": "$21.54"
+ },
+ {
+  "ItemName": "YOGURT VANILLA WM ORGANIC",
+  "Dist.SKU": 861898,
+  "Brand": "STONYFIELD FARMS",
+  "Pack": 12,
+  "Size": "5.3 OZ",
+  "UnitType": "CS",
+  "Cases": 333,
+  "CostperCase": "$11.07"
+ },
+ {
+  "ItemName": "YOGURT PEACH BLND ORGANIC LF",
+  "Dist.SKU": 585873,
+  "Brand": "STONYFIELD FARMS",
+  "Pack": 12,
+  "Size": "5.3 OZ",
+  "UnitType": "CS",
+  "Cases": 282,
+  "CostperCase": "$11.04"
+ },
+ {
+  "ItemName": "CHIP POTATO CHED SOUR CREAM TFF",
+  "Dist.SKU": 230141,
+  "Brand": "BAKED RUFFLES",
+  "Pack": 64,
+  "Size": "1.125 OZ",
+  "UnitType": "CS",
+  "Cases": 204,
+  "CostperCase": "$31.12"
+ },
+ {
+  "ItemName": "MILK SOY PLN UNSWTND ORGANIC",
+  "Dist.SKU": 415015,
+  "Brand": "SILK",
+  "Pack": 6,
+  "Size": "64 OZ",
+  "UnitType": "CS",
+  "Cases": 202,
+  "CostperCase": "$29.63"
+ },
+ {
+  "ItemName": "CANDY M&M PEANUT CHOC",
+  "Dist.SKU": 279276,
+  "Brand": "M&MS",
+  "Pack": 6,
+  "Size": "42 OZ",
+  "UnitType": "CS",
+  "Cases": 197,
+  "CostperCase": "$57.24"
+ },
+ {
+  "ItemName": "CHIP POTATO KETTLE ORGNL SLTD",
+  "Dist.SKU": 579994,
+  "Brand": "CAPE COD",
+  "Pack": 88,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 158,
+  "CostperCase": "$25.03"
+ },
+ {
+  "ItemName": "BAR GRANOLA CHOC CHIP CHWY",
+  "Dist.SKU": 310018,
+  "Brand": "QUAKER",
+  "Pack": 96,
+  "Size": ".84 OZ",
+  "UnitType": "CS",
+  "Cases": 146,
+  "CostperCase": "$28.15"
+ },
+ {
+  "ItemName": "POPCORN WHI CHED TFF",
+  "Dist.SKU": 994008,
+  "Brand": "SMARTFOOD",
+  "Pack": 104,
+  "Size": ".625 OZ",
+  "UnitType": "CS",
+  "Cases": 131,
+  "CostperCase": "$35.33"
+ },
+ {
+  "ItemName": "COOKIE FIG NEWTON 2 OZ TFF",
+  "Dist.SKU": 33838,
+  "Brand": "NABISCO",
+  "Pack": 120,
+  "Size": "2 OZ",
+  "UnitType": "CS",
+  "Cases": 111,
+  "CostperCase": "$49.51"
+ },
+ {
+  "ItemName": "BLUEBERRIES WILD WHL IQF",
+  "Dist.SKU": 468275,
+  "Brand": "WEST CREEK",
+  "Pack": 2,
+  "Size": "5 LB",
+  "UnitType": "CS",
+  "Cases": 90,
+  "CostperCase": "$22.03"
+ },
+ {
+  "ItemName": "MANGO SL JUICE INFUSED",
+  "Dist.SKU": 563480,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "11 LB",
+  "UnitType": "CS",
+  "Cases": 86,
+  "CostperCase": "$64.29"
+ },
+ {
+  "ItemName": "CEREAL CHEERIOS HONEY NUT BULK",
+  "Dist.SKU": 52463,
+  "Brand": "GENERAL MILLS",
+  "Pack": 4,
+  "Size": "39 OZ",
+  "UnitType": "CS",
+  "Cases": 79,
+  "CostperCase": "$49.11"
+ },
+ {
+  "ItemName": "CHIP MLT-GRN GARDEN SALSA TFF",
+  "Dist.SKU": 892295,
+  "Brand": "SUNCHIPS",
+  "Pack": 104,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 79,
+  "CostperCase": "$35.49"
+ },
+ {
+  "ItemName": "MILK OAT VANILLA UNSWTND GF UHT",
+  "Dist.SKU": 593689,
+  "Brand": "PLANET OAT",
+  "Pack": 6,
+  "Size": "52 OZ",
+  "UnitType": "CS",
+  "Cases": 60,
+  "CostperCase": "$20.02"
+ },
+ {
+  "ItemName": "CUP 412 12 OZ PAPER WHI HOT",
+  "Dist.SKU": 992546,
+  "Brand": "SOLO CUP",
+  "Pack": 1,
+  "Size": "1000 CT",
+  "UnitType": "CS",
+  "Cases": 58,
+  "CostperCase": "$47.59"
+ },
+ {
+  "ItemName": "CHIP MLT-GRN FRNCH ONION TFF",
+  "Dist.SKU": 985664,
+  "Brand": "SUNCHIPS",
+  "Pack": 104,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 56,
+  "CostperCase": "$35.19"
+ },
+ {
+  "ItemName": "YOGURT GREEK PLN 10%",
+  "Dist.SKU": 420443,
+  "Brand": "CABOT CREAMERY",
+  "Pack": 6,
+  "Size": "2 LB",
+  "UnitType": "CS",
+  "Cases": 54,
+  "CostperCase": "$26.34"
+ },
+ {
+  "ItemName": "PEANUT BUTTER UNSLTD",
+  "Dist.SKU": 234843,
+  "Brand": "TEDDIE",
+  "Pack": 12,
+  "Size": "16 OZ",
+  "UnitType": "CS",
+  "Cases": 44,
+  "CostperCase": "$38.83"
+ },
+ {
+  "ItemName": "CANDY M&MS MILK CHOC PLN",
+  "Dist.SKU": 240134,
+  "Brand": "M&MS",
+  "Pack": 6,
+  "Size": "42 OZ",
+  "UnitType": "CS",
+  "Cases": 38,
+  "CostperCase": "$56.45"
+ },
+ {
+  "ItemName": "CANDY PCS PEANUT 38 OZ",
+  "Dist.SKU": 614640,
+  "Brand": "M&MS",
+  "Pack": 6,
+  "Size": "38 OZ",
+  "UnitType": "CS",
+  "Cases": 38,
+  "CostperCase": "$60.41"
+ },
+ {
+  "ItemName": "CRAISIN CRANBERRIES DRIED",
+  "Dist.SKU": 481304,
+  "Brand": "OCEAN SPRAY",
+  "Pack": 200,
+  "Size": "1.16 OZ",
+  "UnitType": "CS",
+  "Cases": 38,
+  "CostperCase": "$47.20"
+ },
+ {
+  "ItemName": "HONEY CLOVER BEAR TFF",
+  "Dist.SKU": 266347,
+  "Brand": "WEST CREEK",
+  "Pack": 12,
+  "Size": "12 OZ",
+  "UnitType": "CS",
+  "Cases": 33,
+  "CostperCase": "$42.71"
+ },
+ {
+  "ItemName": "BAR GRANOLA OATS & HONEY TFF",
+  "Dist.SKU": 41857,
+  "Brand": "NATURE VALLEY",
+  "Pack": 144,
+  "Size": ".74 OZ",
+  "UnitType": "CS",
+  "Cases": 31,
+  "CostperCase": "$32.81"
+ },
+ {
+  "ItemName": "CANDY GUMMI BEARS",
+  "Dist.SKU": 240953,
+  "Brand": "PACKER",
+  "Pack": 4,
+  "Size": "5 LB",
+  "UnitType": "CS",
+  "Cases": 31,
+  "CostperCase": "$44.42"
+ },
+ {
+  "ItemName": "SODA SELTZER WATER CAN",
+  "Dist.SKU": 256338,
+  "Brand": "POLAR",
+  "Pack": 24,
+  "Size": "12 OZ",
+  "UnitType": "CS",
+  "Cases": 29,
+  "CostperCase": "$9.57"
+ },
+ {
+  "ItemName": "CANDY MINT CREME DE MENTHE TFF",
+  "Dist.SKU": 28464,
+  "Brand": "ANDES",
+  "Pack": 1,
+  "Size": "20 LB",
+  "UnitType": "CS",
+  "Cases": 28,
+  "CostperCase": "$66.64"
+ },
+ {
+  "ItemName": "LID TLB316 CUP PLAS DOME BLK",
+  "Dist.SKU": 862585,
+  "Brand": "SOLO CUP",
+  "Pack": 10,
+  "Size": "100 CT",
+  "UnitType": "CS",
+  "Cases": 28,
+  "CostperCase": "$30.19"
+ },
+ {
+  "ItemName": "NAPKIN XPRESS WHI 13 X 8.5",
+  "Dist.SKU": 437344,
+  "Brand": "FIRST MARK",
+  "Pack": 12,
+  "Size": "500 CT",
+  "UnitType": "CS",
+  "Cases": 28,
+  "CostperCase": "$45.63"
+ },
+ {
+  "ItemName": "CUP PAPER 12 OZ HOT WHI",
+  "Dist.SKU": 493150,
+  "Brand": "PRIME SOURCE",
+  "Pack": 20,
+  "Size": "50 CT",
+  "UnitType": "CS",
+  "Cases": 25,
+  "CostperCase": "$53.48"
+ },
+ {
+  "ItemName": "OATS QUICK TFF",
+  "Dist.SKU": 43285,
+  "Brand": "QUAKER",
+  "Pack": 12,
+  "Size": "42 OZ",
+  "UnitType": "CS",
+  "Cases": 24,
+  "CostperCase": "$37.35"
+ },
+ {
+  "ItemName": "CHEESE MOZZ SNACK FRSH",
+  "Dist.SKU": 503702,
+  "Brand": "BELGIOIOSO CHEES",
+  "Pack": 10,
+  "Size": "16 OZ",
+  "UnitType": "CS",
+  "Cases": 22,
+  "CostperCase": "$30.98"
+ },
+ {
+  "ItemName": "PUMP FOR 1 LTR PLAS BOTTLE",
+  "Dist.SKU": 866663,
+  "Brand": "MONIN",
+  "Pack": 1,
+  "Size": "1 EA",
+  "UnitType": "CS",
+  "Cases": 22,
+  "CostperCase": "$1.33"
+ },
+ {
+  "ItemName": "JUICE STRWBRY LEMONADE ALL NAT",
+  "Dist.SKU": 417584,
+  "Brand": "NATALIES ORCHID ISLN",
+  "Pack": 6,
+  "Size": "64 OZ",
+  "UnitType": "CS",
+  "Cases": 20,
+  "CostperCase": "$20.09"
+ },
+ {
+  "ItemName": "TOWEL ROLL 2PLY WHI HSHLD 9X11",
+  "Dist.SKU": 158804,
+  "Brand": "FIRST MARK",
+  "Pack": 30,
+  "Size": "84 CT",
+  "UnitType": "CS",
+  "Cases": 20,
+  "CostperCase": "$31.35"
+ },
+ {
+  "ItemName": "CHEESE FONTINA SNACK .75 OZ",
+  "Dist.SKU": 563910,
+  "Brand": "BELGIOIOSO CHEES",
+  "Pack": 10,
+  "Size": "18 OZ",
+  "UnitType": "CS",
+  "Cases": 18,
+  "CostperCase": "$81.53"
+ },
+ {
+  "ItemName": "BROCCOLI MINI SNACK PACK TFF",
+  "Dist.SKU": 433897,
+  "Brand": "TAYLOR",
+  "Pack": 50,
+  "Size": "2 OZ",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$36.36"
+ },
+ {
+  "ItemName": "CHIP RIDGES SEA SALT",
+  "Dist.SKU": 501052,
+  "Brand": "POPCHIPS",
+  "Pack": 72,
+  "Size": ".8 OZ",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$41.42"
+ },
+ {
+  "ItemName": "CRACKER CHEEZ-IT CHED TFF BKD",
+  "Dist.SKU": 43502,
+  "Brand": "SUNSHINE",
+  "Pack": 60,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$23.00"
+ },
+ {
+  "ItemName": "MANGO CHNK IQF",
+  "Dist.SKU": 956274,
+  "Brand": "PACKER",
+  "Pack": 1,
+  "Size": "30 LB",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$45.73"
+ },
+ {
+  "ItemName": "MILK OAT DARK CHOC GF UHT",
+  "Dist.SKU": 593687,
+  "Brand": "PLANET OAT",
+  "Pack": 6,
+  "Size": "52 OZ",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$20.02"
+ },
+ {
+  "ItemName": "RAISIN IND PACK TFF",
+  "Dist.SKU": 327066,
+  "Brand": "SUN-MAID",
+  "Pack": 144,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$44.53"
+ },
+ {
+  "ItemName": "SWEETENER STEVIA",
+  "Dist.SKU": 584782,
+  "Brand": "TRUVIA",
+  "Pack": 1000,
+  "Size": "2 GM",
+  "UnitType": "CS",
+  "Cases": 16,
+  "CostperCase": "$43.95"
+ },
+ {
+  "ItemName": "SNACK MIX LAFAYETTE ALMOND",
+  "Dist.SKU": 340184,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "25 LB",
+  "UnitType": "CS",
+  "Cases": 15,
+  "CostperCase": "$140.08"
+ },
+ {
+  "ItemName": "DONUT CINNAMON WRAPPED TFF",
+  "Dist.SKU": 936859,
+  "Brand": "MUFFIN TOWN",
+  "Pack": 80,
+  "Size": "2.25 OZ",
+  "UnitType": "CS",
+  "Cases": 14,
+  "CostperCase": "$21.70"
+ },
+ {
+  "ItemName": "PINEAPPLE CHNK IQF",
+  "Dist.SKU": 338965,
+  "Brand": "NONPAREIL",
+  "Pack": 1,
+  "Size": "22 LB",
+  "UnitType": "CS",
+  "Cases": 14,
+  "CostperCase": "$25.41"
+ },
+ {
+  "ItemName": "SPINACH BABY",
+  "Dist.SKU": 260811,
+  "Brand": "PEAK (PRODUCE)",
+  "Pack": 2,
+  "Size": "2 LB",
+  "UnitType": "CS",
+  "Cases": 14,
+  "CostperCase": "$17.49"
+ },
+ {
+  "ItemName": "STRAWBERRIES WHL IQF",
+  "Dist.SKU": 158533,
+  "Brand": "PACKER",
+  "Pack": 1,
+  "Size": "30 LB",
+  "UnitType": "CS",
+  "Cases": 14,
+  "CostperCase": "$38.11"
+ },
+ {
+  "ItemName": "APPLESAUCE MIXED BERRY UNSWTND",
+  "Dist.SKU": 575906,
+  "Brand": "MUSSELMAN",
+  "Pack": 72,
+  "Size": "4.5 OZ",
+  "UnitType": "CS",
+  "Cases": 13,
+  "CostperCase": "$34.61"
+ },
+ {
+  "ItemName": "CHIP PITA CINNAMON SUGAR LSS",
+  "Dist.SKU": 255034,
+  "Brand": "STACYS",
+  "Pack": 1,
+  "Size": "24 CT",
+  "UnitType": "CS",
+  "Cases": 13,
+  "CostperCase": "$14.54"
+ },
+ {
+  "ItemName": "CHIP PITA PARMESAN GARLIC HERB",
+  "Dist.SKU": 255036,
+  "Brand": "STACYS",
+  "Pack": 24,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 13,
+  "CostperCase": "$14.52"
+ },
+ {
+  "ItemName": "CHEESE MOZZ FRSH SNACK",
+  "Dist.SKU": 547303,
+  "Brand": "BELGIOIOSO CHEES",
+  "Pack": 10,
+  "Size": "6 OZ",
+  "UnitType": "CS",
+  "Cases": 12,
+  "CostperCase": "$23.94"
+ },
+ {
+  "ItemName": "CHIP POTATO KETTLE SEA SALT &",
+  "Dist.SKU": 580001,
+  "Brand": "CAPE COD",
+  "Pack": 56,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 12,
+  "CostperCase": "$22.44"
+ },
+ {
+  "ItemName": "TOWEL ROLL 2PLY WHI HSHLD 9X11",
+  "Dist.SKU": 910453,
+  "Brand": "FIRST MARK",
+  "Pack": 12,
+  "Size": "210 CT",
+  "UnitType": "CS",
+  "Cases": 12,
+  "CostperCase": "$29.23"
+ },
+ {
+  "ItemName": "DRESSING RANCH GF TFF POUCH",
+  "Dist.SKU": 81989,
+  "Brand": "KENS",
+  "Pack": 60,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 11,
+  "CostperCase": "$15.26"
+ },
+ {
+  "ItemName": "MUFFIN CORN IW TFF",
+  "Dist.SKU": 74182,
+  "Brand": "MUFFIN TOWN",
+  "Pack": 72,
+  "Size": "2 OZ",
+  "UnitType": "CS",
+  "Cases": 11,
+  "CostperCase": "$19.55"
+ },
+ {
+  "ItemName": "NAPKIN LUNCHEON WHI 1/4 FOLD",
+  "Dist.SKU": 95779,
+  "Brand": "TORK",
+  "Pack": 12,
+  "Size": "500 CT",
+  "UnitType": "CS",
+  "Cases": 11,
+  "CostperCase": "$58.35"
+ },
+ {
+  "ItemName": "SNACK YOGURT RAISIN",
+  "Dist.SKU": 459996,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "25 LB",
+  "UnitType": "CS",
+  "Cases": 11,
+  "CostperCase": "$86.36"
+ },
+ {
+  "ItemName": "SPOON SOUP HW WHI PS",
+  "Dist.SKU": 254156,
+  "Brand": "DIXIE",
+  "Pack": 1,
+  "Size": "1000 CT",
+  "UnitType": "CS",
+  "Cases": 11,
+  "CostperCase": "$31.11"
+ },
+ {
+  "ItemName": "APPLESAUCE CUP TFF",
+  "Dist.SKU": 33283,
+  "Brand": "MUSSELMAN",
+  "Pack": 72,
+  "Size": "4 OZ",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$28.22"
+ },
+ {
+  "ItemName": "CEREAL LUCKY CHARMS BULK TFF",
+  "Dist.SKU": 52464,
+  "Brand": "GENERAL MILLS",
+  "Pack": 4,
+  "Size": "35 OZ",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$48.21"
+ },
+ {
+  "ItemName": "DRINK SELTZER CRNBRY LIME CAN",
+  "Dist.SKU": 347956,
+  "Brand": "POLAR",
+  "Pack": 24,
+  "Size": "12 OZ",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$9.50"
+ },
+ {
+  "ItemName": "DRINK SELTZER LIME CAN",
+  "Dist.SKU": 347955,
+  "Brand": "POLAR",
+  "Pack": 24,
+  "Size": "12 OZ",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$9.50"
+ },
+ {
+  "ItemName": "DRINK SELTZER POMEGRANATE CAN",
+  "Dist.SKU": 344509,
+  "Brand": "POLAR",
+  "Pack": 24,
+  "Size": "12 OZ",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$9.50"
+ },
+ {
+  "ItemName": "DRINK SELTZER RSPBRY LIME CAN",
+  "Dist.SKU": 344508,
+  "Brand": "POLAR",
+  "Pack": 24,
+  "Size": "12 OZ",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$9.50"
+ },
+ {
+  "ItemName": "RAISIN CHOC COATED",
+  "Dist.SKU": 240947,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "25 LB",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$112.91"
+ },
+ {
+  "ItemName": "SLEEVE PAPER 12-20 OZ CUP",
+  "Dist.SKU": 246198,
+  "Brand": "WORLD CENTRIC",
+  "Pack": 20,
+  "Size": "50 CT",
+  "UnitType": "CS",
+  "Cases": 9,
+  "CostperCase": "$44.98"
+ },
+ {
+  "ItemName": "AGAVE BLUE 100% GLDN ORGANIC",
+  "Dist.SKU": 578251,
+  "Brand": "BORN SWEET",
+  "Pack": 6,
+  "Size": "11.75 OZ",
+  "UnitType": "CS",
+  "Cases": 8,
+  "CostperCase": "$19.52"
+ },
+ {
+  "ItemName": "BOWL PAPER 11.5 OZ BAGASSE",
+  "Dist.SKU": 341124,
+  "Brand": "WORLD CENTRIC",
+  "Pack": 20,
+  "Size": "50 CT",
+  "UnitType": "CS",
+  "Cases": 8,
+  "CostperCase": "$57.16"
+ },
+ {
+  "ItemName": "CEREAL TRIX BULK TFF",
+  "Dist.SKU": 28603,
+  "Brand": "GENERAL MILLS",
+  "Pack": 4,
+  "Size": "32 OZ",
+  "UnitType": "CS",
+  "Cases": 8,
+  "CostperCase": "$43.98"
+ },
+ {
+  "ItemName": "DSPNSR XPRESSNAP 2PLY ALUM",
+  "Dist.SKU": 468673,
+  "Brand": "TORK",
+  "Pack": 1,
+  "Size": "1 EA",
+  "UnitType": "CS",
+  "Cases": 8,
+  "CostperCase": "$10.00"
+ },
+ {
+  "ItemName": "MUFFIN APP-CINN SNACK LOAF TFF",
+  "Dist.SKU": 937134,
+  "Brand": "MUFFIN TOWN",
+  "Pack": 72,
+  "Size": "2 OZ",
+  "UnitType": "CS",
+  "Cases": 8,
+  "CostperCase": "$18.69"
+ },
+ {
+  "ItemName": "\"PLATE 9\"\" PLANT FIBER\"",
+  "Dist.SKU": 332096,
+  "Brand": "WORLD CENTRIC",
+  "Pack": 20,
+  "Size": "50 CT",
+  "UnitType": "CS",
+  "Cases": 8,
+  "CostperCase": "$108.84"
+ },
+ {
+  "ItemName": "CEREAL GRANOLA COCONUT W/FRUIT",
+  "Dist.SKU": 554298,
+  "Brand": "GRANDYOATS",
+  "Pack": 4,
+  "Size": "50 OZ",
+  "UnitType": "CS",
+  "Cases": 7,
+  "CostperCase": "$57.42"
+ },
+ {
+  "ItemName": "CEREAL MINI WHEATS FRSTD TFF",
+  "Dist.SKU": 28506,
+  "Brand": "KELLOGGS",
+  "Pack": 4,
+  "Size": "56 OZ",
+  "UnitType": "CS",
+  "Cases": 7,
+  "CostperCase": "$58.88"
+ },
+ {
+  "ItemName": "DONUT PLN IW TFF",
+  "Dist.SKU": 936866,
+  "Brand": "MUFFIN TOWN",
+  "Pack": 80,
+  "Size": "2.25 OZ",
+  "UnitType": "CS",
+  "Cases": 7,
+  "CostperCase": "$21.38"
+ },
+ {
+  "ItemName": "SWEETENER PACKET BULK CARTON",
+  "Dist.SKU": 395209,
+  "Brand": "SPLENDA",
+  "Pack": 1,
+  "Size": "2000 CT",
+  "UnitType": "CS",
+  "Cases": 7,
+  "CostperCase": "$34.12"
+ },
+ {
+  "ItemName": "YOGURT STRWBRY FOB LF",
+  "Dist.SKU": 567092,
+  "Brand": "DANNON YOGURT",
+  "Pack": 12,
+  "Size": "5.3 OZ",
+  "UnitType": "CS",
+  "Cases": 7,
+  "CostperCase": "$10.65"
+ },
+ {
+  "ItemName": "AGAVE BLUE 100% RAW ORGANIC",
+  "Dist.SKU": 578254,
+  "Brand": "BORN SWEET",
+  "Pack": 6,
+  "Size": "11.75 OZ",
+  "UnitType": "CS",
+  "Cases": 6,
+  "CostperCase": "$19.52"
+ },
+ {
+  "ItemName": "CEREAL COCOA PUFF BULK TFF",
+  "Dist.SKU": 52466,
+  "Brand": "GENERAL MILLS",
+  "Pack": 4,
+  "Size": "35 OZ",
+  "UnitType": "CS",
+  "Cases": 6,
+  "CostperCase": "$47.11"
+ },
+ {
+  "ItemName": "CEREAL GRANOLA HONEY OAT GF",
+  "Dist.SKU": 395803,
+  "Brand": "GRANDYOATS",
+  "Pack": 5,
+  "Size": "32 OZ",
+  "UnitType": "CS",
+  "Cases": 6,
+  "CostperCase": "$59.38"
+ },
+ {
+  "ItemName": "CHIP POTATO KETTLE ORGNL SLTD",
+  "Dist.SKU": 579999,
+  "Brand": "CAPE COD",
+  "Pack": 56,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 6,
+  "CostperCase": "$22.44"
+ },
+ {
+  "ItemName": "FORK HW WHI PS",
+  "Dist.SKU": 255974,
+  "Brand": "DIXIE",
+  "Pack": 1,
+  "Size": "1000 CT",
+  "UnitType": "CS",
+  "Cases": 6,
+  "CostperCase": "$31.25"
+ },
+ {
+  "ItemName": "OIL OLIVE EXTRA VIRGIN",
+  "Dist.SKU": 233299,
+  "Brand": "PIANCONE",
+  "Pack": 12,
+  "Size": "500 ML",
+  "UnitType": "CS",
+  "Cases": 6,
+  "CostperCase": "$82.30"
+ },
+ {
+  "ItemName": "CANDY MILK CHOC PCS PLN",
+  "Dist.SKU": 614371,
+  "Brand": "M&MS",
+  "Pack": 6,
+  "Size": "38 OZ",
+  "UnitType": "CS",
+  "Cases": 5,
+  "CostperCase": "$59.75"
+ },
+ {
+  "ItemName": "CEREAL CRNCH GO LEAN",
+  "Dist.SKU": 253405,
+  "Brand": "KASHI",
+  "Pack": 4,
+  "Size": "50 OZ",
+  "UnitType": "CS",
+  "Cases": 5,
+  "CostperCase": "$63.69"
+ },
+ {
+  "ItemName": "SUGAR TURBINADO RAW PACKET TFF",
+  "Dist.SKU": 989097,
+  "Brand": "SUGAR IN THE RW",
+  "Pack": 1200,
+  "Size": "4.5 GM",
+  "UnitType": "CS",
+  "Cases": 4,
+  "CostperCase": "$27.13"
+ },
+ {
+  "ItemName": "APPLE MACINTOSH",
+  "Dist.SKU": 950472,
+  "Brand": "LOCAL GROWER",
+  "Pack": 1,
+  "Size": "120 CT",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$26.36"
+ },
+ {
+  "ItemName": "CEREAL CHEERIOS BULK TFF",
+  "Dist.SKU": 28699,
+  "Brand": "GENERAL MILLS",
+  "Pack": 4,
+  "Size": "29 OZ",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$38.45"
+ },
+ {
+  "ItemName": "CHIP POTATO KETTLE ORGNL SLTD",
+  "Dist.SKU": 271960,
+  "Brand": "DEEP RIVER SNACKS",
+  "Pack": 80,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$30.12"
+ },
+ {
+  "ItemName": "CHIP POTATO KETTLE ROSEMARY",
+  "Dist.SKU": 271970,
+  "Brand": "DEEP RIVER SNACKS",
+  "Pack": 80,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$29.80"
+ },
+ {
+  "ItemName": "CHIP POTATO KETTLE SWEET MAUI",
+  "Dist.SKU": 271961,
+  "Brand": "DEEP RIVER SNACKS",
+  "Pack": 80,
+  "Size": "1 OZ",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$30.12"
+ },
+ {
+  "ItemName": "CIDER APPLE NEW ENGLAND",
+  "Dist.SKU": 949821,
+  "Brand": "PACKER",
+  "Pack": 4,
+  "Size": "1 GA",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$28.55"
+ },
+ {
+  "ItemName": "CIDER APPLE NEW ENGLAND",
+  "Dist.SKU": 962718,
+  "Brand": "PACKER",
+  "Pack": 9,
+  "Size": ".5 GA",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$34.39"
+ },
+ {
+  "ItemName": "CUP TP16D PLAS 16OZ RPET CLR",
+  "Dist.SKU": 409910,
+  "Brand": "SOLO CUP",
+  "Pack": 20,
+  "Size": "50 CT",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$69.09"
+ },
+ {
+  "ItemName": "OATS QUICK HEARTY TRADITION TFF",
+  "Dist.SKU": 975860,
+  "Brand": "MALT-O-MEAL",
+  "Pack": 12,
+  "Size": "42 OZ",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$30.12"
+ },
+ {
+  "ItemName": "SAUCE SOY GLASS BOTTLE TFF",
+  "Dist.SKU": 34444,
+  "Brand": "KIKKOMAN",
+  "Pack": 12,
+  "Size": "5 OZ",
+  "UnitType": "CS",
+  "Cases": 3,
+  "CostperCase": "$13.74"
+ },
+ {
+  "ItemName": "APPLESAUCE CINNAMON CUP",
+  "Dist.SKU": 911726,
+  "Brand": "MUSSELMAN",
+  "Pack": 72,
+  "Size": "4 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$33.03"
+ },
+ {
+  "ItemName": "CEREAL BRAN FLAKES BULK PACK",
+  "Dist.SKU": 968372,
+  "Brand": "KELLOGGS",
+  "Pack": 4,
+  "Size": "43 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$48.58"
+ },
+ {
+  "ItemName": "CEREAL CORN FLAKES BULK PACK",
+  "Dist.SKU": 28453,
+  "Brand": "KELLOGGS",
+  "Pack": 4,
+  "Size": "26 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$26.44"
+ },
+ {
+  "ItemName": "CHIP MLT-GRN ORGNL LSS",
+  "Dist.SKU": 229983,
+  "Brand": "SUNCHIPS",
+  "Pack": 64,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$30.57"
+ },
+ {
+  "ItemName": "DRESSING RANCH FF GF TFF POUCH",
+  "Dist.SKU": 27814,
+  "Brand": "KENS",
+  "Pack": 60,
+  "Size": "1.5 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$16.46"
+ },
+ {
+  "ItemName": "MUSTARD DIJON SQUEEZE BOTTLE",
+  "Dist.SKU": 26135,
+  "Brand": "GREY POUPON",
+  "Pack": 12,
+  "Size": "10 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$35.40"
+ },
+ {
+  "ItemName": "RAISIN DARK CHOC",
+  "Dist.SKU": 577406,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "10 LB",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$53.92"
+ },
+ {
+  "ItemName": "SNACK MIX 19 TH HOLE",
+  "Dist.SKU": 879070,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "20 LB",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$68.92"
+ },
+ {
+  "ItemName": "SNACK MIX ALL THE RIGHT STUFF",
+  "Dist.SKU": 240958,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "25 LB",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$76.86"
+ },
+ {
+  "ItemName": "SNACK MIX RACHAELS",
+  "Dist.SKU": 233580,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "14 LB",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$38.15"
+ },
+ {
+  "ItemName": "SPINACH CELLO",
+  "Dist.SKU": 328063,
+  "Brand": "PACKER",
+  "Pack": 8,
+  "Size": "8 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$21.86"
+ },
+ {
+  "ItemName": "SYRUP CUCUMBER CONC",
+  "Dist.SKU": 524445,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$36.02"
+ },
+ {
+  "ItemName": "SYRUP GINGER CONC",
+  "Dist.SKU": 530308,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$38.67"
+ },
+ {
+  "ItemName": "SYRUP GRAPEFRUIT CONC",
+  "Dist.SKU": 554925,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$38.67"
+ },
+ {
+  "ItemName": "TOPPING WHIPPED CREAM AERO",
+  "Dist.SKU": 27284,
+  "Brand": "CABOT CREAMERY",
+  "Pack": 12,
+  "Size": "14 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$37.51"
+ },
+ {
+  "ItemName": "VINEGAR BALSAMIC GLASS BOTTLE",
+  "Dist.SKU": 69515,
+  "Brand": "ROLAND",
+  "Pack": 16,
+  "Size": "16.9 OZ",
+  "UnitType": "CS",
+  "Cases": 2,
+  "CostperCase": "$60.80"
+ },
+ {
+  "ItemName": "BERRY MIX NUT & SEED CRNCH",
+  "Dist.SKU": 301767,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 3,
+  "Size": "6 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$98.83"
+ },
+ {
+  "ItemName": "BREAD CORN MINI LOAF",
+  "Dist.SKU": 234375,
+  "Brand": "MUFFIN TOWN",
+  "Pack": 140,
+  "Size": "2 OZ",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$37.73"
+ },
+ {
+  "ItemName": "CANDY MINT EASTER HOLLAND",
+  "Dist.SKU": 539216,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "10 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$62.09"
+ },
+ {
+  "ItemName": "CASHEW SUPER COLOSSAL RSTD SLTD",
+  "Dist.SKU": 250515,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "25 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$257.93"
+ },
+ {
+  "ItemName": "CONC PASSION FRUIT",
+  "Dist.SKU": 556147,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$38.67"
+ },
+ {
+  "ItemName": "CONC STRWBRY FLVR",
+  "Dist.SKU": 555591,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$32.07"
+ },
+ {
+  "ItemName": "CRACKER GOLDFISH CHED CHEESE IW",
+  "Dist.SKU": 949801,
+  "Brand": "PEPPERIDGE FARM",
+  "Pack": 100,
+  "Size": ".5 OZ",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$16.90"
+ },
+ {
+  "ItemName": "CUP SLEEVE JAVA JACKET PAPER",
+  "Dist.SKU": 461242,
+  "Brand": "BAGCRAFT/PAPERCON",
+  "Pack": 1,
+  "Size": "1300 CT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$59.44"
+ },
+ {
+  "ItemName": "FRUIT SNACK MIXED 2.25 OZ",
+  "Dist.SKU": 73774,
+  "Brand": "WELCHS",
+  "Pack": 1,
+  "Size": "48 CT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$26.43"
+ },
+ {
+  "ItemName": "MILK SOY PLN TFF",
+  "Dist.SKU": 971112,
+  "Brand": "SILK",
+  "Pack": 12,
+  "Size": "32 OZ",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$27.18"
+ },
+ {
+  "ItemName": "MINT MEDLEY CANDY WRAPPED ITAL",
+  "Dist.SKU": 263407,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 3,
+  "Size": "1600 CT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$103.76"
+ },
+ {
+  "ItemName": "PRETZEL YOGURT COATED",
+  "Dist.SKU": 240944,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "15 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$40.85"
+ },
+ {
+  "ItemName": "RSPBRY FLVR CONC",
+  "Dist.SKU": 549349,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$38.67"
+ },
+ {
+  "ItemName": "SNACK MIX CHED ALE ALE NUTS",
+  "Dist.SKU": 415945,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "15 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$41.09"
+ },
+ {
+  "ItemName": "SNACK MIX LAFAYETTE PLEASURES",
+  "Dist.SKU": 269410,
+  "Brand": "ARCADE SNACKS",
+  "Pack": 1,
+  "Size": "25 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$185.47"
+ },
+ {
+  "ItemName": "STRAWBERRIES WHL IQF TFF",
+  "Dist.SKU": 24675,
+  "Brand": "SIMPLOT",
+  "Pack": 1,
+  "Size": "30 LB",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$53.66"
+ },
+ {
+  "ItemName": "SYRUP DESERT PEAR",
+  "Dist.SKU": 908453,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$32.63"
+ },
+ {
+  "ItemName": "SYRUP MANGO",
+  "Dist.SKU": 866320,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$30.40"
+ },
+ {
+  "ItemName": "SYRUP PEACH PET",
+  "Dist.SKU": 853866,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$31.52"
+ },
+ {
+  "ItemName": "SYRUP POMEGRANATE",
+  "Dist.SKU": 299967,
+  "Brand": "MONIN",
+  "Pack": 1,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$8.76"
+ },
+ {
+  "ItemName": "SYRUP RSPBRY WILD",
+  "Dist.SKU": 275653,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$31.73"
+ },
+ {
+  "ItemName": "SYRUP STRWBRY WILD",
+  "Dist.SKU": 235874,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$31.73"
+ },
+ {
+  "ItemName": "SYRUP WILDBERRY",
+  "Dist.SKU": 286213,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "1 LT",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$30.40"
+ },
+ {
+  "ItemName": "WATERMELON FLVR CONC",
+  "Dist.SKU": 549346,
+  "Brand": "MONIN",
+  "Pack": 4,
+  "Size": "375 ML",
+  "UnitType": "CS",
+  "Cases": 1,
+  "CostperCase": "$41.09"
+ }
+]
